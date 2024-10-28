@@ -1,8 +1,10 @@
 /* Place your CSS styles in this file */
 
-body {background-color: brown; 
-      border: 5px solid black;
-      border-radius:15px ;}
+body {
+   background-color: brown; 
+   border: 5px solid black;
+   border-radius:15px ;
+}
       
 h1 {
     text-align: center;
@@ -16,15 +18,16 @@ ul {list-style-type: none;
     border-radius: 10px;
     font-size: xx-large;
     text-align: center;
-    }
+}
 
-li{display:inline;
+li{
+   display:inline;
    color: white;
    margin: 20px;
 }
 
 marquee {
-         color: aliceblue;
-         font-size: larger;
-         font-weight: bold;
+   color: aliceblue;
+   font-size: larger;
+   font-weight: bold;
 }
