@@ -7,20 +7,21 @@ body {
 }
       
 h1 {
-    text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: normal;
-    color: white;
+   text-align: center;
+   font-family: "Source Sans Pro", sans-serif;
+   font-weight: normal;
+   color: white;
 }
 
-ul {list-style-type: none;
-    background-color: burlywood;
-    border-radius: 10px;
-    font-size: xx-large;
-    text-align: center;
+ul {
+   list-style-type: none;
+   background-color: burlywood;
+   border-radius: 10px;
+   font-size: xx-large;
+   text-align: center;
 }
 
-li{
+li {
    display:inline;
    color: white;
    margin: 20px;
